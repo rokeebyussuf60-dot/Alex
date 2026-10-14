@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+
+}
+.alex{
+    background-image: url(wallpaper.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    height: 700px;
+    position: relative;
+}
+.hero{
+    position: absolute;
+}
+.hero h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
